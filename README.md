@@ -1,2 +1,2 @@
 # ChabotV2
-Chatbot exprt en droit du travail
+Chatbot expert en droit du travail
