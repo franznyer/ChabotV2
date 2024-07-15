@@ -1,0 +1,17 @@
+/* Add global styles here */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.welcome {
+  margin: 20px;
+}
+
+.chat-message {
+  margin: 10px;
+}
